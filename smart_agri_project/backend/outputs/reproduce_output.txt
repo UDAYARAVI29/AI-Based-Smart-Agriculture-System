@@ -1,0 +1,3 @@
+Input Data: {'temperature': 27, 'humidity': 70, 'rainfall': 18, 'soil_type': 2, 'ph': 4.9, 'ec': 0.4, 'previous_moisture': 31.8}
+
+Full Result: {'predicted_moisture': 36.83472944099149, 'recommendation': 'Monitor - Low'}
