@@ -1,5 +1,5 @@
 # AI-Based Smart Agriculture System
-
+## ![Screenshot 2025-11-23 173648](https://github.com/user-attachments/assets/58e699ef-9475-4640-b02c-99c5a7fc5778)
 ## Overview
 The **AI-Based Smart Agriculture System** uses Machine Learning (ML) and Deep Learning (DL) to provide smart recommendations and predictions for farmers. It includes:
 - Crop Disease Detection (Deep Learning - CNN)
@@ -8,7 +8,8 @@ The **AI-Based Smart Agriculture System** uses Machine Learning (ML) and Deep Le
 - MongoDB-based prediction history logging
 - Fully modular FastAPI backend architecture
 
-## Features
+## Features![Screenshot 2025-11-23 173648](https://github.com/user-attachments/assets/58e699ef-9475-4640-b02c-99c5a7fc5778)
+
 ###  Crop Disease Detection
 - Upload a leaf image
 - Detects 29 crop diseases
